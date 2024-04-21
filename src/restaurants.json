@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Daily Chicken Plus",
+    "cuisine": ["american", "steakhouse", "seafood"],
+    "description": "Non enim praesent elementum facilisis leo vel fringilla. Lectus proin nibh nisl condimentum id. Quis varius quam quisque id diam vel.",
+    "image": "DailyChicken"
+  },
+  {
+    "name": "Blat",
+    "cuisine": ["american", "steakhouse", "seafood"],
+    "description": "Vulputate enim nulla aliquet porttitor lacus luctus. Suspendisse adipiscing bibendum est ultricies integer. Sed adipiscing diam donec adipiscing tristique.",
+    "image": "Blat"
+  },
+  {
+    "name": "Bite Me",
+    "cuisine": ["healthy", "steakhouse", "vegetarian"],
+    "description": "Tortor at risus viverra adipiscing at in tellus. Cras semper auctor neque vitae tempus. Qui accumsan sit amet nulla facilisi. Sed adipiscing diam.",
+    "image": "BiteMe"
+  },
+  {
+    "name": "InnSandwich",
+    "cuisine": ["american", "steakhouse", "seafood"],
+    "description": "Non enim praesent elementum facilisis leo vel fringilla. Lectus proin nibh nisl condimentum id. Quis varius quam quisque id diam vel.",
+    "image": "InnSandwich"
+  },
+  {
+    "name": "Emilio",
+    "cuisine": ["american", "steakhouse", "seafood"],
+    "description": "Non enim praesent elementum facilisis leo vel fringilla. Lectus proin nibh nisl condimentum id. Quis varius quam quisque id diam vel.",
+    "image": "Emilio"
+  }
+]
