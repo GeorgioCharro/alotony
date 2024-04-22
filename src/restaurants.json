@@ -1,32 +1,32 @@
 [
   {
     "name": "Daily Chicken Plus",
-    "cuisine": ["american", "steakhouse", "seafood"],
-    "description": "Non enim praesent elementum facilisis leo vel fringilla. Lectus proin nibh nisl condimentum id. Quis varius quam quisque id diam vel.",
+    "cuisine": ["Lebanese", "Broasted", "Chicken"],
+    "description": "Enjoy a taste of Lebanon with our specialty broasted chicken, marinated in traditional spices and cooked to golden perfection. Our menu features a variety of chicken dishes that embody the rich flavors and culinary heritage of Lebanese cuisine",
     "image": "DailyChicken"
   },
   {
     "name": "Blat",
-    "cuisine": ["american", "steakhouse", "seafood"],
-    "description": "Vulputate enim nulla aliquet porttitor lacus luctus. Suspendisse adipiscing bibendum est ultricies integer. Sed adipiscing diam donec adipiscing tristique.",
+    "cuisine": ["Pizza", "Coffee", "Lebanese"],
+    "description": "Blat offers a unique blend of Italian and Lebanese culinary traditions, featuring artisanal pizzas topped with fresh, local ingredients alongside robust Lebanese coffees. Experience a cozy atmosphere where every slice and sip provides a burst of flavor.",
     "image": "Blat"
   },
   {
     "name": "Bite Me",
-    "cuisine": ["healthy", "steakhouse", "vegetarian"],
-    "description": "Tortor at risus viverra adipiscing at in tellus. Cras semper auctor neque vitae tempus. Qui accumsan sit amet nulla facilisi. Sed adipiscing diam.",
+    "cuisine": ["Snack", "Lebanese", "American"],
+    "description": "Dive into a fusion of Lebanese and American snack culture at Bite Me. From savory treats like Taouk Sandwich to classic American burgers with a Lebanese twist, our menu is designed to satisfy your cravings with a creative touch.",
     "image": "BiteMe"
   },
   {
     "name": "InnSandwich",
-    "cuisine": ["american", "steakhouse", "seafood"],
-    "description": "Non enim praesent elementum facilisis leo vel fringilla. Lectus proin nibh nisl condimentum id. Quis varius quam quisque id diam vel.",
+    "cuisine": ["American", "Steakhouse", "Snack"],
+    "description": "InnSandwich offers a hearty American dining experience with a focus on steakhouse classics and gourmet sandwiches. Whether it's our juicy steaks or our loaded sandwiches, each bite is crafted for the ultimate comfort food experience",
     "image": "InnSandwich"
   },
   {
     "name": "Emilio",
-    "cuisine": ["american", "steakhouse", "seafood"],
-    "description": "Non enim praesent elementum facilisis leo vel fringilla. Lectus proin nibh nisl condimentum id. Quis varius quam quisque id diam vel.",
+    "cuisine": ["Bakery", "Pizza", "Pasta"],
+    "description": "At Emilio's, we celebrate the essence of Italian baking, pizza, and pasta. Enjoy our freshly baked breads, hand-tossed pizzas, and pasta dishes made from traditional recipes and the finest ingredients, all served in a warm, inviting setting.",
     "image": "Emilio"
   }
 ]
