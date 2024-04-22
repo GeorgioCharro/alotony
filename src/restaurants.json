@@ -28,5 +28,10 @@
     "cuisine": ["Bakery", "Pizza", "Pasta"],
     "description": "At Emilio's, we celebrate the essence of Italian baking, pizza, and pasta. Enjoy our freshly baked breads, hand-tossed pizzas, and pasta dishes made from traditional recipes and the finest ingredients, all served in a warm, inviting setting.",
     "image": "Emilio"
+  }, {
+    "name": "ShapeShake",
+    "cuisine": ["Smoothy", "Board Games", "Bubble Tea"],
+    "description": "ShapeShake invites you to unwind and indulge in a playful atmosphere where flavors and fun meet. Savor our refreshing smoothies and bubble teas, each crafted from the freshest ingredients.ShapeShake offers friendly environment where all are welcome.",
+    "image": "ShapeShake"
   }
 ]
