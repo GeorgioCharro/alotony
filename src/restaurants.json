@@ -33,5 +33,11 @@
     "cuisine": ["Smoothy", "Board Games", "Bubble Tea"],
     "description": "ShapeShake invites you to unwind and indulge in a playful atmosphere where flavors and fun meet. Savor our refreshing smoothies and bubble teas, each crafted from the freshest ingredients.ShapeShake offers friendly environment where all are welcome.",
     "image": "ShapeShake"
+  },
+  {
+    "name": "LionHouse",
+    "cuisine": ["Cocktail", "Snack", "Juice"],
+    "description": "LionHouse is your go-to spot for a vibrant evening or a relaxing daytime retreat. Immerse yourself in our eclectic menu featuring handcrafted cocktails, freshly squeezed juices, and a selection of gourmet snacks. Each drink is concocted with premium ingredients and a dash of creativity.",
+    "image": "LionHouse"
   }
 ]
